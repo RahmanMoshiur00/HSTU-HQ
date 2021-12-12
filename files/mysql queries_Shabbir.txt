@@ -1,0 +1,41 @@
+INSERT INTO question(year_var, level_var, semester, degree, department, course_code, course_title, link)
+VALUES 
+(2016, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 303", "Data Communication", "files/2016 CSE_303 Data_Communication.pdf"),
+(2016, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 309", "Computer Architecture (Theoretical)", "files/2016 CSE_309 Computer_Architecture_Theoretocal.pdf"),
+(2016, 3, 1, "B. Sc. in Electronics and Communication Engineering", "Computer Science and Engineering", "CSE 317", "Microprocessor and Embedded System Design", "files/2016 CSE_317 Microprocessor_and_Embedded_System_Design.pdf"),
+(2017, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 301", "Software Engineering", "files/2017 CSE_301 Software_Engineering.pdf"),
+(2017, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 307", "Compiler", "files/2017 CSE_307 Compiler.pdf"),
+(2017, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 309", "Computer Architecture (Theoretical)", "files/2017 CSE_309 Computer_Architecture_Theoretical.pdf"),
+(2017, 3, 1, "B. Sc. in Electronics and Communication Engineering", "Computer Science and Engineering", "CSE 315", "Database Management System (Theoretical)", "files/2017 CSE_315 Database_Management_System_Theoretical.pdf"),
+(2017, 3, 1, "B. Sc. in Electronics and Communication Engineering", "Computer Science and Engineering", "CSE 317", "Microprocessor and Embedded System Design", "files/2017 CSE_317 Microprocessor_and_Embedded_System_Design.pdf"),
+(2017, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "ECN 303", "Economics", "files/2017 ECN_303 Economics.pdf"),
+(2018, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 301", "Software Engineering", "files/2018 CSE_301 Software_Engineering.pdf"),
+(2018, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 305", "Database", "files/2018 CSE_305 Database.pdf"),
+(2018, 3, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 309", "Computer Architecture Repeat", "files/2018 CSE_309 Computer_Architecture_Repeat.pdf"),
+(2018, 3, 1, "B. Sc. in Electronics and Communication Engineering", "Computer Science and Engineering", "CSE 315", "Database Management System", "files/2018 CSE_315 Database_Management_System.pdf"),
+(2018, 3, 1, "B. Sc. in Electronics and Communication Engineering", "Computer Science and Engineering", "CSE 317", "Microprocessor and Embedded System Design", "files/2018 CSE_317 Microprocessor_and_Embedded_System_Design.pdf"),
+(2018, 3, 1, "B. Sc. in Mathematics", "Computer Science and Engineering", "CSE 329", "Programming Language", "files/2018 CSE_329 Programming_Language.pdf"),
+(2016, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 451", "Basic Multimedia System", "files/2016 CSE_451 Basic_Multimedia_System.pdf"),
+(2016, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 453", "Computer Graphics Theoretical", "files/2016 CSE_453 Computer_Graphics_Theoretical.pdf"),
+(2016, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 455", "Pattern Recognition", "files/2016 CSE_455 Pattern_Recognition.pdf"),
+(2016, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 457", "VLSI Design", "files/2016 CSE_457 VLSI_Design.pdf"),
+(2016, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 461", "Communication Engineering", "files/2016 CSE_461 Communication_Engineering.pdf"),
+(2017, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 451", "Basic Multimedia System", "files/2017 CSE_451 Basic_Multimedia_System.pdf"),
+(2017, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 453", "Computer Graphics", "files/2017 CSE_453 Computer_Graphics.pdf"),
+(2017, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 455", "Pattern Recognition", "files/2017 CSE_455 Pattern_Recognition.pdf"),
+(2017, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 457", "VLSI Design", "files/2017 CSE_457 VLSI_Design.pdf"),
+(2017, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 459", "Graph Theory", "files/2017 CSE_459 Graph_Theory.pdf"),
+(2018, 4, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 455", "Pattern Recognition Repeat", "files/2018 CSE_455 Pattern_Recognition_Repeat.pdf"),
+(2018, 2, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "STT 227", "Introduction to Basic Statistics and Probability", "files/2018 STT_227 Introduction_to_Basic_Statistics_and_Probability.pdf");
+
+
+
+
+
+
+
+
+
+
+
+

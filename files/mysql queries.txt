@@ -1,0 +1,42 @@
+//Creating 'question' table: https://www.mysqltutorial.org/mysql-not-null-constraint/
+CREATE TABLE question
+(
+    question_id INT AUTO_INCREMENT PRIMARY KEY,
+    year_var INT NOT NULL,
+    level_var INT NOT NULL,
+    semester INT NOT NULL,
+    degree VARCHAR(100) NOT NULL,
+    department VARCHAR(100) NOT NULL,
+    course_code VARCHAR(100) NOT NULL,
+    course_title VARCHAR(100) NOT NULL,
+    link VARCHAR(100) NOT NULL
+);
+
+//Creating Request table
+CREATE TABLE request
+(
+    request_id INT AUTO_INCREMENT PRIMARY KEY,
+    student_id INT,
+    student_contact VARCHAR(100),
+    faculty VARCHAR(100),
+    degree VARCHAR(100),
+    department VARCHAR(100),
+    course_code VARCHAR(100),
+    course_title VARCHAR(100)
+);
+
+// Setting AUTO_INCREMENT intiating value: https://stackoverflow.com/questions/1485668/how-to-set-initial-value-and-auto-increment-in-mysql
+ALTER TABLE question AUTO_INCREMENT=10001
+
+
+// Insertion
+INSERT INTO question(year_var, level_var, semester, degree, department, course_code, course_title, link)
+VALUES 
+(2019, 3, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 353", "Operating System", "files/2019 CSE_353 Operating_System.pdf"),
+(2019, 3, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 355", "Web Engineering", "files/2019 CSE_355 Web_Engineering.pdf"),
+(2019, 3, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 359", "Compiler Design", "files/2019 CSE_359 Compiler_Design.pdf"),
+(2019, 3, 2, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 361", "Mathematics for Computer Science", "files/2019 CSE_361 Mathematical_Analysis_for_Computer_Science.pdf");
+
+
+
+student_id, student_contact, faculty, degree, department, course_code, course_title

@@ -1,0 +1,24 @@
+
+*** table css design: https://dev.to/dcodeyt/creating-beautiful-html-tables-with-css-428l
+
+*** Basic mysql query in PHP: https://www.w3schools.com/php/php_mysql_select.asp
+
+*** how to display mysql query results in table using php: https://www.youtube.com/watch?v=pc0otVM80Sk
+
+*** Fetching data from MYSQL database to HTML dropdown list: https://www.youtube.com/watch?v=IVl5GPpMJsY
+
+*** mysql select distinct query in PHP: https://stackoverflow.com/questions/4959155/mysql-select-distinct-query-in-php
+
+*** Post vs. get in forms (for download links): https://www.w3schools.com/php/php_forms.asp
+
+*** Retrieve data from the same page in php: https://www.youtube.com/watch?v=EhNwjNh59eA
+
+*** File upload limiting conditions: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file
+
+*** File uploading into the server: https://stackoverflow.com/questions/25320735/codes-in-how-to-upload-pdf-file-using-php
+
+*** Limiting file size to 10MB using Javascript: https://www.codejava.net/coding/check-file-size-before-upload
+
+*** move uploaded file: failed to open stream: Permission denied: https://www.youtube.com/watch?v=ZjhLwbqpehY
+
+*** page redirect: https://stackoverflow.com/questions/2112373/php-page-redirect

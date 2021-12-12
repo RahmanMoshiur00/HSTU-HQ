@@ -1,0 +1,11 @@
+INSERT INTO question(year_var, level_var, semester, degree, department, course_code, course_title, link)
+VALUES 
+(2014, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CEN 401", "Computer Interfacing", "files/2014 CEN_401 Computer_Interfacing.pdf"),
+(2014, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CEN 403", "Digital System Design", "files/2014 CEN_403 Digital_System_Design.pdf"),
+(2014, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Information Technology", "CIT 403", "Machine Learning (Theoretical)", "files/2014 CIT_403 Machine_Learning_Theoretical.pdf"),
+(2014, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Information Technology", "CIT 405", "System Analysis and Design Theoretical", "files/2014 CIT_405 System_Analysis_and_Design_Theoretical.pdf"),
+(2014, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "MGT 405", "Industrial Management", "files/2014 MGT_405 Industrial_Management.pdf"),
+(2018, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 403", "Machine Learning", "files/2018 CSE_403 Machine_Learning.pdf"),
+(2018, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 405", "Computer Interfacing", "files/2018 CSE_405 Computer_Interfacing.pdf"),
+(2018, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "MGT 405", "Industrial Management (Repeat)", "files/2018 CSE_405 Industrial_Management_Repeat.pdf"),
+(2018, 4, 1, "B.Sc. in Computer Science and Engineering", "Computer Science and Engineering", "CSE 409", "System Analysis and Design", "files/2018 CSE_409 System_Analysis_and_Design.pdf");

@@ -1,2 +1,2 @@
-# HSTU-HQ
-HSTU Hall of Questions (HSTU HQ) is an archive of previously appeared questions in exams of Hajee Mohammad Danesh Science and Technology University.
+# HSTU Hall of Questions (HSTU HQ)
+Report of HSTU Hall of Questions (HSTU HQ) can be found [here.](/Report/HSTU Hall of Questions Report.pdf)
